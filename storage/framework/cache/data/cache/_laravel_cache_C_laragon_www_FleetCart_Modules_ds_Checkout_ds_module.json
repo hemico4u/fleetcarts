@@ -1,0 +1,1 @@
+a:3:{i:0;i:1573467622;i:1;a:6:{s:4:"name";s:8:"Checkout";s:5:"alias";s:8:"checkout";s:11:"description";s:30:"The FleetCart Checkout Module.";s:6:"active";i:1;s:5:"order";i:100;s:9:"providers";a:2:{i:0;s:47:"Modules\Checkout\Providers\RouteServiceProvider";i:1;s:47:"Modules\Checkout\Providers\EventServiceProvider";}}i:2;a:0:{}}

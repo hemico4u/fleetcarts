@@ -1,0 +1,1 @@
+a:3:{i:0;i:1573467622;i:1;a:7:{s:4:"name";s:5:"Media";s:5:"alias";s:5:"media";s:11:"description";s:27:"The FleetCart Media Module.";s:7:"version";s:5:"1.0.0";s:6:"active";i:1;s:5:"order";i:80;s:9:"providers";a:2:{i:0;s:44:"Modules\Media\Providers\MediaServiceProvider";i:1;s:44:"Modules\Media\Providers\RouteServiceProvider";}}i:2;a:0:{}}

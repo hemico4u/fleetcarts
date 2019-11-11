@@ -1,0 +1,1 @@
+a:3:{i:0;i:1573467622;i:1;a:7:{s:4:"name";s:4:"Page";s:5:"alias";s:4:"page";s:11:"description";s:15:"Managing pages.";s:7:"version";s:5:"1.0.0";s:6:"active";i:1;s:5:"order";i:9999;s:9:"providers";a:2:{i:0;s:42:"Modules\Page\Providers\PageServiceProvider";i:1;s:43:"Modules\Page\Providers\RouteServiceProvider";}}i:2;a:0:{}}

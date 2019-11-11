@@ -1,0 +1,1 @@
+a:3:{i:0;i:1573467622;i:1;a:6:{s:4:"name";s:3:"Tax";s:5:"alias";s:3:"tax";s:11:"description";s:25:"The FleetCart Tax Module.";s:6:"active";i:1;s:5:"order";i:100;s:9:"providers";a:2:{i:0;s:40:"Modules\Tax\Providers\TaxServiceProvider";i:1;s:42:"Modules\Tax\Providers\RouteServiceProvider";}}i:2;a:0:{}}

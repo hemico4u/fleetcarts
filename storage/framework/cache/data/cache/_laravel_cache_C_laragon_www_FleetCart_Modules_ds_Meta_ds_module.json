@@ -1,0 +1,1 @@
+a:3:{i:0;i:1573467622;i:1;a:6:{s:4:"name";s:4:"Meta";s:5:"alias";s:4:"meta";s:11:"description";s:20:"Meta data management";s:6:"active";i:1;s:5:"order";i:110;s:9:"providers";a:1:{i:0;s:42:"Modules\Meta\Providers\MetaServiceProvider";}}i:2;a:0:{}}
